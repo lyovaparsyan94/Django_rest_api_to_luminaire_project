@@ -1,0 +1,7 @@
+.idea
+db.sqlite3
+./__pycache__/
+luminaire/migrations/__pycache__/
+luminaire/__pycache__/
+drfsite/__pycache__/
+/migrations/
